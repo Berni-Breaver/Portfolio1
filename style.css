@@ -1525,7 +1525,7 @@ html {
     grid-template-columns: 1fr;
   }
 
-  .projects-grid {
+  .projects-grid { display: flex;
     grid-template-columns: 1fr;
   }
 
